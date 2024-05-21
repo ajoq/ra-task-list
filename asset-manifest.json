@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-task-list/static/css/main.c2cab247.css",
+    "main.js": "/ra-task-list/static/js/main.f5e4aa0c.js",
+    "index.html": "/ra-task-list/index.html",
+    "main.c2cab247.css.map": "/ra-task-list/static/css/main.c2cab247.css.map",
+    "main.f5e4aa0c.js.map": "/ra-task-list/static/js/main.f5e4aa0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.f5e4aa0c.js"
+  ]
+}
